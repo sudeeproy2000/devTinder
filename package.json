@@ -1,0 +1,31 @@
+{
+  "name": "devtinderlatest",
+  "version": "1.0.0",
+  "description": "Tinder for developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeeproy2000/devTinder.git"
+  },
+  "keywords": [
+    "Tinder",
+    "Developer",
+    "NodeJS",
+    "React",
+    "JavaScript"
+  ],
+  "author": "Sudeep Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeeproy2000/devTinder/issues"
+  },
+  "homepage": "https://github.com/sudeeproy2000/devTinder#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
